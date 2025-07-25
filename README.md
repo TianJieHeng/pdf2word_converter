@@ -50,3 +50,7 @@ From the project root:
 
 ```bash
 python -m src.main
+
+License
+MIT © 2025 Tiān Jié Héng
+Feel free to fork, and fuck off! :)
